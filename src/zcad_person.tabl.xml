@@ -34,6 +34,7 @@
      <LENG>000003</LENG>
      <MASK>  CLNT</MASK>
     </DD03P>
+   </DD03P_TABLE>
   </asx:values>
  </asx:abap>
 </abapGit>
